@@ -4,8 +4,9 @@ Author: jamcha (jamcha.aa@gmail.com)
 
 Last update: Mar 4, 2018.
 
-exwm-desktop is a sample Desktop entry for exwm (Emacs-based window manager).
+exwm-desktop is a desktop entry for exwm (Emacs-based window manager).
 
+### Usage
 - Install exwm (https://github.com/ch11ng/exwm).
 - sudo cp exwm-desktop /usr/share/xsessions/emacs.desktop
 - logout or reboot
